@@ -1,0 +1,3 @@
+Fornecedor,Descricao, Valor
+Loja X, Compra de papel, 20.0
+provedor y,aluguel, 500.0
